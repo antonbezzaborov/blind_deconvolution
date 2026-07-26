@@ -86,7 +86,7 @@
 - **MCMC-FMP**: MCMC - Factorized Mixture Proposal
 - **(t,m,s)-nets**: low-discrepancy sequences   
 
-### Визуализация
+### Визуализация (примеры)
 - **Многомерные Парето-фронты** (качество восстановления, сложность смаза, изолированный вклад шума)
 
 <p align="center">
@@ -108,7 +108,7 @@
 - **Область применимости** (сложность смаза, влияние шума, скорость работы [Cython])
 
 <p align="center">
-  <img src="images/demo/3d_applicability_ssim_angle_315.png" width="800">
+  <img src="images/demo/3d_applicability.png" width="800">
 </p>
 
 ## Методы восстановления
