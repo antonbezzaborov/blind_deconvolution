@@ -1,4 +1,4 @@
-# Research and Development of Blind Image Deconvolution Methods
+# Research and Development of Blind Image Deconvolution
 
 [![CI](https://github.com/PavelYurov/blind_deconvolution/actions/workflows/ci.yml/badge.svg?branch=feature/module-redesign)](https://github.com/PavelYurov/blind_deconvolution/actions/workflows/ci.yml)
 
@@ -90,27 +90,25 @@
 - **Многомерные Парето-фронты** (качество восстановления, сложность смаза, изолированный вклад шума)
 
 <p align="center">
-  <img src="images/demo/nd_1.png" width="750">
-  <br>
-  <img src="images/demo/nd_2.png" width="750">
+  <img src="images/demo/nd_1.png" width="800">
 </p>
 
 - **Гистограммы градиентов для различных априорных распределений**
 
 <p align="center">
-  <img src="images/demo/priors_all_priors.png" width="850">
+  <img src="images/demo/priors_all_priors.png" width="800">
 </p>
 
 - **Success Rate vs. Error Ratio** 
 
 <p align="center">
-  <img src="images/demo/success_rate_Sun.png" width="850">
+  <img src="images/demo/success_rate_Sun.png" width="800">
 </p>
 
 - **Область применимости** (сложность смаза, влияние шума, скорость работы [Cython])
 
 <p align="center">
-  <img src="images/demo/3d_applicability_ssim_angle_315.png" width="850">
+  <img src="images/demo/3d_applicability_ssim_angle_315.png" width="800">
 </p>
 
 ## Методы восстановления
