@@ -87,12 +87,18 @@
 - **(t,m,s)-nets**: low-discrepancy sequences   
 
 ### Визуализация
-- **Многомерные Парето-фронты** (качество, сложность смаза, изолированный вклад шума)
+- **Многомерные Парето-фронты** (качество восстановления, сложность смаза, изолированный вклад шума)
 
 <p align="center">
   <img src="images/demo/nd_1.png" width="750">
   <br>
   <img src="images/demo/nd_2.png" width="750">
+</p>
+
+- **Гистограммы градиентов для различных априорных распределений**
+
+<p align="center">
+  <img src="images/demo/priors_all_priors.png" width="850">
 </p>
 
 - **Success Rate vs. Error Ratio** 
@@ -101,12 +107,11 @@
   <img src="images/demo/success_rate_Sun.png" width="850">
 </p>
 
-- **Гистограммы градиентов для разных априорных распределений**
+- **Область применимости** (сложность смаза, влияние шума, скорость работы [Cython])
 
 <p align="center">
-  <img src="images/demo/priors_all_priors.png" width="850">
+  <img src="images/demo/3d_applicability_ssim_angle_315.png" width="850">
 </p>
-  
 
 ## Методы восстановления
 - **Байесовские и вариационные подходы методы**:
