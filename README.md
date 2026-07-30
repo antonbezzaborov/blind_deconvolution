@@ -1,4 +1,4 @@
-# Research and Development of Blind Image Deconvolution
+# Research and Development of Blind Image Deconvolution, Super Resolution, Noise Estimation
 
 [![CI](https://github.com/PavelYurov/blind_deconvolution/actions/workflows/ci.yml/badge.svg?branch=feature/module-redesign)](https://github.com/PavelYurov/blind_deconvolution/actions/workflows/ci.yml)
 
